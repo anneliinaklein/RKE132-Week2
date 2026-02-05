@@ -6,7 +6,7 @@ Programm tervitab kasutajat vastavalt soole:
 - Kui kasutaja sisestab midagi muud, väljasta: „Tere tulemast, [Perekonnanimi]! (sugu ei olegi tähtis).“ 
 """
 #Alusta programmi
-#Küsi kasutaja perekonna nime
+#Küsi kasutaja perekonnanime
 #Küsi kasutaja sugu (m/n)
 #Kui "m", siis väljasta „Tere, härra [Perekonnanimi]!“
 #Kui "n", siis väljasta „Tere, proua [Perekonnanimi]!“
